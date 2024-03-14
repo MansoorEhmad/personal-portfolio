@@ -6,7 +6,7 @@ function Header(){
             <div className="header-left">
               <div className="logo">
                 <a href="index.html">
-                  <img src="./AC.png" alt="logo" />
+                  <img src={process.env.PUBLIC_URL + '/images/AC.png'} alt="logo" />
                 </a>
               </div>
             </div>
