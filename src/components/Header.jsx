@@ -1,3 +1,4 @@
+import ACImage from '../images/AC.png';
 function Header(){
     return(
         <header className="rn-header haeder-default black-logo-version header--fixed header--sticky">
@@ -6,7 +7,7 @@ function Header(){
             <div className="header-left">
               <div className="logo">
                 <a href="index.html">
-                  <img src={'/images/AC.png'} alt="logo" />
+                  <img src={ACImage} alt="logo" />
                 </a>
               </div>
             </div>
