@@ -62,7 +62,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client1.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client1.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">John Due</a></span>
@@ -73,7 +73,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client2.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client2.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Smiths Marth</a></span>
@@ -84,7 +84,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client3.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client3.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Add Dev</a></span>
@@ -95,7 +95,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client4.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client4.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Jone Due</a></span>
@@ -106,7 +106,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client1.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client1.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">John Due</a></span>
@@ -117,7 +117,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client5.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client5.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Adon Smith</a></span>
@@ -128,7 +128,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client1.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client1.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Smitha Mila</a></span>
@@ -139,7 +139,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client2.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client2.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Sultana Mila</a></span>
@@ -150,7 +150,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client1.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client1.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Jannat</a></span>
@@ -161,7 +161,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client5.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client5.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Mila Dus</a></span>
@@ -172,7 +172,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client1.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client1.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Marth Smiths</a></span>
@@ -183,7 +183,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client3.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client3.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Marth Smiths</a></span>
@@ -202,7 +202,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client1.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client1.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">John Due</a></span>
@@ -213,7 +213,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client2.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client2.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Smiths Marth</a></span>
@@ -224,7 +224,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client3.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client3.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Add Dev</a></span>
@@ -235,7 +235,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client4.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client4.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Jone Due</a></span>
@@ -246,7 +246,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client1.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client1.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">John Due</a></span>
@@ -257,7 +257,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client5.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client5.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Adon Smith</a></span>
@@ -268,7 +268,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client1.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client1.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Smitha Mila</a></span>
@@ -279,7 +279,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client2.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client2.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Sultana Mila</a></span>
@@ -290,7 +290,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client1.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client1.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Jannat</a></span>
@@ -301,7 +301,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client5.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client5.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Mila Dus</a></span>
@@ -312,7 +312,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client1.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client1.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Marth Smiths</a></span>
@@ -323,7 +323,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client3.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client3.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Marth Smiths</a></span>
@@ -342,7 +342,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client1.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client1.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">John Due</a></span>
@@ -353,7 +353,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client2.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client2.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Smiths Marth</a></span>
@@ -364,7 +364,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client3.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client3.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Add Dev</a></span>
@@ -375,7 +375,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client4.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client4.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Jone Due</a></span>
@@ -386,7 +386,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client1.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client1.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">John Due</a></span>
@@ -397,7 +397,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client5.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client5.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Adon Smith</a></span>
@@ -408,7 +408,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client1.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client1.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Smitha Mila</a></span>
@@ -419,7 +419,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client2.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client2.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Sultana Mila</a></span>
@@ -430,7 +430,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client1.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client1.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Jannat</a></span>
@@ -441,7 +441,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client5.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client5.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Mila Dus</a></span>
@@ -452,7 +452,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client1.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client1.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Marth Smiths</a></span>
@@ -463,7 +463,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client3.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client3.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Marth Smiths</a></span>
@@ -482,7 +482,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client1.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client1.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">John Due</a></span>
@@ -493,7 +493,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client2.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client2.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Smiths Marth</a></span>
@@ -504,7 +504,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client3.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client3.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Add Dev</a></span>
@@ -515,7 +515,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client4.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client4.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Jone Due</a></span>
@@ -526,7 +526,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client1.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client1.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">John Due</a></span>
@@ -537,7 +537,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client5.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client5.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Adon Smith</a></span>
@@ -548,7 +548,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client1.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client1.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Smitha Mila</a></span>
@@ -559,7 +559,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client2.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client2.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Sultana Mila</a></span>
@@ -570,7 +570,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client1.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client1.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Jannat</a></span>
@@ -581,7 +581,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client5.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client5.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Mila Dus</a></span>
@@ -592,7 +592,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client1.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client1.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Marth Smiths</a></span>
@@ -603,7 +603,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client3.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client3.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Marth Smiths</a></span>
@@ -622,7 +622,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client1.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client1.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">John Due</a></span>
@@ -633,7 +633,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client2.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client2.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Smiths Marth</a></span>
@@ -644,7 +644,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client3.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client3.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Add Dev</a></span>
@@ -655,7 +655,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client4.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client4.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Jone Due</a></span>
@@ -666,7 +666,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client1.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client1.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">John Due</a></span>
@@ -677,7 +677,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client5.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client5.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Adon Smith</a></span>
@@ -688,7 +688,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client1.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client1.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Smitha Mila</a></span>
@@ -699,7 +699,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client2.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client2.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Sultana Mila</a></span>
@@ -710,7 +710,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client1.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client1.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Jannat</a></span>
@@ -721,7 +721,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client5.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client5.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Mila Dus</a></span>
@@ -732,7 +732,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client1.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client1.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Marth Smiths</a></span>
@@ -743,7 +743,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client3.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client3.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Marth Smiths</a></span>
@@ -762,7 +762,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client1.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client1.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">John Due</a></span>
@@ -773,7 +773,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client2.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client2.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Smiths Marth</a></span>
@@ -784,7 +784,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client3.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client3.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Add Dev</a></span>
@@ -795,7 +795,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client4.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client4.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Jone Due</a></span>
@@ -806,7 +806,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client1.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client1.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">John Due</a></span>
@@ -817,7 +817,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client5.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client5.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Adon Smith</a></span>
@@ -828,7 +828,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client1.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client1.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Smitha Mila</a></span>
@@ -839,7 +839,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client2.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client2.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Sultana Mila</a></span>
@@ -850,7 +850,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client1.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client1.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Jannat</a></span>
@@ -861,7 +861,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client5.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client5.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Mila Dus</a></span>
@@ -872,7 +872,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client1.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client1.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Marth Smiths</a></span>
@@ -883,7 +883,7 @@ function ClientArea(){
                                             <div className="main-content">
                                                 <div className="inner text-center">
                                                     <div className="thumbnail">
-                                                        <a href="#"><img src="/src/images/client/png/client3.png" alt="Client-image"/></a>
+                                                        <a href="#"><img src="./images/client/png/client3.png" alt="Client-image"/></a>
                                                     </div>
                                                     <div className="seperator"></div>
                                                     <div className="client-name"><span><a href="#">Marth Smiths</a></span>

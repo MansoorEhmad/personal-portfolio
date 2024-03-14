@@ -6,7 +6,7 @@ function PopupMobileMenu() {
           <div className="menu-header">
             <a className="logo" href="index.html">
               <img
-                src="/src/images/logo/logos-circle.png"
+                src="./images/logo/logos-circle.png"
                 alt="Personal Portfolio"
               />
             </a>

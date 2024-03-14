@@ -14,7 +14,7 @@ function Contact(){
                     <div className="col-lg-5">
                         <div className="contact-about-area">
                             <div className="thumbnail">
-                                <img src="/src/images/3d/Saly-31.png" alt="contact-img"/>
+                                <img src="./images/3d/Saly-31.png" alt="contact-img"/>
                             </div>
                             <div className="title-area">
                                 <h4 className="title">Nevine Acotanza</h4>

@@ -17,7 +17,7 @@ function PortfolioArea(){
                             <div className="inner">
                                 <div className="thumbnail">
                                     <a href="javascript:void(0)">
-                                        <img src="/src/images/Dribbble/01.jpg" alt="Personal Portfolio Images"/>
+                                        <img src="./images/Dribbble/01.jpg" alt="Personal Portfolio Images"/>
                                     </a>
                                 </div>
                                 <div className="content">
@@ -42,7 +42,7 @@ function PortfolioArea(){
                             <div className="inner">
                                 <div className="thumbnail">
                                     <a href="javascript:void(0)">
-                                        <img src="/src/images/Dribbble/02.png" alt="Personal Portfolio Images"/>
+                                        <img src="./images/Dribbble/02.png" alt="Personal Portfolio Images"/>
                                     </a>
                                 </div>
                                 <div className="content">
@@ -67,7 +67,7 @@ function PortfolioArea(){
                             <div className="inner">
                                 <div className="thumbnail">
                                     <a href="javascript:void(0)">
-                                        <img src="/src/images/Dribbble/03.jpg" alt="Personal Portfolio Images"/>
+                                        <img src="./images/Dribbble/03.jpg" alt="Personal Portfolio Images"/>
                                     </a>
                                 </div>
                                 <div className="content">
@@ -92,7 +92,7 @@ function PortfolioArea(){
                             <div className="inner">
                                 <div className="thumbnail">
                                     <a href="javascript:void(0)">
-                                        <img src="/src/images/Dribbble/04.png" alt="Personal Portfolio Images"/>
+                                        <img src="./images/Dribbble/04.png" alt="Personal Portfolio Images"/>
                                     </a>
                                 </div>
                                 <div className="content">
@@ -117,7 +117,7 @@ function PortfolioArea(){
                             <div className="inner">
                                 <div className="thumbnail">
                                     <a href="javascript:void(0)">
-                                        <img src="/src/images/Dribbble/05.jpg" alt="Personal Portfolio Images"/>
+                                        <img src="./images/Dribbble/05.jpg" alt="Personal Portfolio Images"/>
                                     </a>
                                 </div>
                                 <div className="content">
@@ -142,7 +142,7 @@ function PortfolioArea(){
                             <div className="inner">
                                 <div className="thumbnail">
                                     <a href="javascript:void(0)">
-                                        <img src="/src/images/Dribbble/06.png" alt="Personal Portfolio Images"/>
+                                        <img src="./images/Dribbble/06.png" alt="Personal Portfolio Images"/>
                                     </a>
                                 </div>
                                 <div className="content">
