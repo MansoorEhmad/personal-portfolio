@@ -44,35 +44,35 @@ function Contact(){
 
                                     <div className="col-lg-6">
                                         <div className="form-group">
-                                            <label for="contact-name">Your Name</label>
+                                            <label htmlFor="contact-name">Your Name</label>
                                             <input className="form-control form-control-lg" name="contact-name" id="contact-name" type="text"/>
                                         </div>
                                     </div>
 
                                     <div className="col-lg-6">
                                         <div className="form-group">
-                                            <label for="contact-phone">Phone Number</label>
+                                            <label htmlFor="contact-phone">Phone Number</label>
                                             <input className="form-control" name="contact-phone" id="contact-phone" type="text"/>
                                         </div>
                                     </div>
 
                                     <div className="col-lg-12">
                                         <div className="form-group">
-                                            <label for="contact-email">Email</label>
+                                            <label htmlFor="contact-email">Email</label>
                                             <input className="form-control form-control-sm" id="contact-email" name="contact-email" type="email"/>
                                         </div>
                                     </div>
 
                                     <div className="col-lg-12">
                                         <div className="form-group">
-                                            <label for="subject">subject</label>
+                                            <label htmlFor="subject">subject</label>
                                             <input className="form-control form-control-sm" id="subject" name="subject" type="text"/>
                                         </div>
                                     </div>
 
                                     <div className="col-lg-12">
                                         <div className="form-group">
-                                            <label for="contact-message">Your Message</label>
+                                            <label htmlFor="contact-message">Your Message</label>
                                             <textarea name="contact-message" id="contact-message" cols="30" rows="10"></textarea>
                                         </div>
                                     </div>
