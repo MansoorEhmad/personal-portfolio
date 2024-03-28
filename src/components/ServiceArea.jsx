@@ -1,3 +1,9 @@
+import "../css/vendor/bootstrap.min.css";
+import "../css/vendor/slick.css";
+import "../css/vendor/slick-theme.css";
+import "../css/vendor/aos.css";
+import "../css/plugins/feature.css";
+import "../css/style.css";
 function ServiceArea(){
     return(
         <div className="rn-service-area rn-section-gap section-separator" id="features">

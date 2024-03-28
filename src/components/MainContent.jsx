@@ -9,6 +9,7 @@ import ServiceArea from "./ServiceArea";
 import SliderArea from "./SliderArea";
 import TestimoniaArea from "./TestimoniaArea";
 
+
 function Main(){
     return(
         <main className="main-page-wrapper">

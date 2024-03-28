@@ -1,3 +1,4 @@
+
 function NewsArea(){
     return(
         <div className="rn-blog-area rn-section-gap section-separator" id="blog">

@@ -1,3 +1,9 @@
+import "../css/vendor/bootstrap.min.css";
+import "../css/vendor/slick.css";
+import "../css/vendor/slick-theme.css";
+import "../css/vendor/aos.css";
+import "../css/plugins/feature.css";
+import "../css/style.css";
 function TestimoniaArea(){
     return(
         <div className="rn-testimonial-area rn-section-gap section-separator" id="testimonial">
