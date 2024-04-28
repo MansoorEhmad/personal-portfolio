@@ -1,9 +1,3 @@
-import "../css/vendor/bootstrap.min.css";
-import "../css/vendor/slick.css";
-import "../css/vendor/slick-theme.css";
-import "../css/vendor/aos.css";
-import "../css/plugins/feature.css";
-import "../css/style.css";
 function SliderArea(){
     return(
         <div id="home" className="rn-slider-area">
@@ -52,9 +46,9 @@ function SliderArea(){
                                         <div className="skill-share-inner">
                                             <span className="title">best skill on</span>
                                             <ul className="skill-share d-flex liststyle">
-                                                <li><img src="./images/icons/icons-01.png" alt="Icons Images"/></li>
-                                                <li><img src="./images/icons/icons-02.png" alt="Icons Images"/></li>
-                                                <li><img src="./images/icons/icons-03.png" alt="Icons Images"/></li>
+                                                <li><img src="/images/icons/icons-01.png" alt="Icons Images"/></li>
+                                                <li><img src="/images/icons/icons-02.png" alt="Icons Images"/></li>
+                                                <li><img src="/images/icons/icons-03.png" alt="Icons Images"/></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -65,7 +59,7 @@ function SliderArea(){
                         <div className="order-1 order-lg-2 col-lg-5">
                             <div className="thumbnail">
                                 <div className="inner">
-                                    <img src="./images/3d/Saly-13.png" alt="Personal Portfolio Images"/>
+                                    <img src="/images/3d/Saly-13.png" alt="Personal Portfolio Images"/>
                                 </div>
                             </div>
                         </div>

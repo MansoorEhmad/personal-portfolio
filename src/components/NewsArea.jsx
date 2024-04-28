@@ -1,4 +1,3 @@
-
 function NewsArea(){
     return(
         <div className="rn-blog-area rn-section-gap section-separator" id="blog">
@@ -18,7 +17,7 @@ function NewsArea(){
                             <div className="inner">
                                 <div className="thumbnail">
                                     <a href="javascript:void(0)">
-                                        <img src="./images/Dribbble/03.jpg" alt="Personal Portfolio Images"/>
+                                        <img src="/images/Dribbble/03.jpg" alt="Personal Portfolio Images"/>
                                     </a>
                                 </div>
                                 <div className="content">
@@ -42,7 +41,7 @@ function NewsArea(){
                             <div className="inner">
                                 <div className="thumbnail">
                                     <a href="javascript:void(0)">
-                                        <img src="./images/Dribbble/01.jpg" alt="Personal Portfolio Images"/>
+                                        <img src="/images/Dribbble/01.jpg" alt="Personal Portfolio Images"/>
                                     </a>
                                 </div>
                                 <div className="content">
@@ -66,7 +65,7 @@ function NewsArea(){
                             <div className="inner">
                                 <div className="thumbnail">
                                     <a href="javascript:void(0)">
-                                        <img src="./images/Dribbble/05.jpg" alt="Personal Portfolio Images"/>
+                                        <img src="/images/Dribbble/05.jpg" alt="Personal Portfolio Images"/>
                                     </a>
                                 </div>
                                 <div className="content">

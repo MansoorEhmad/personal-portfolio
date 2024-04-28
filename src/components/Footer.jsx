@@ -1,4 +1,3 @@
-
 function Footer(){
     return(
         <div className="rn-footer-area rn-section-gap section-separator">
@@ -9,7 +8,7 @@ function Footer(){
 
                         <div className="logo">
                             <a href="index.html">
-                                <img src="./images/AC.png" alt="logo"/>
+                                <img src="/images/AC.png" alt="logo"/>
                             </a>
                         </div>
 

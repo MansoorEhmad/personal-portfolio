@@ -1,4 +1,3 @@
-
 function PopupMobileMenu() {
   return (
     <div className="popup-mobile-menu">
@@ -7,7 +6,7 @@ function PopupMobileMenu() {
           <div className="menu-header">
             <a className="logo" href="index.html">
               <img
-                src="./images/logo/logos-circle.png"
+                src="/images/logo/logos-circle.png"
                 alt="Personal Portfolio"
               />
             </a>

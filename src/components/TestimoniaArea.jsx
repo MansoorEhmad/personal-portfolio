@@ -1,9 +1,3 @@
-import "../css/vendor/bootstrap.min.css";
-import "../css/vendor/slick.css";
-import "../css/vendor/slick-theme.css";
-import "../css/vendor/aos.css";
-import "../css/plugins/feature.css";
-import "../css/style.css";
 function TestimoniaArea(){
     return(
         <div className="rn-testimonial-area rn-section-gap section-separator" id="testimonial">
@@ -23,7 +17,7 @@ function TestimoniaArea(){
                                 <div className="inner">
                                     <div className="card-info">
                                         <div className="card-thumbnail">
-                                            <img src="./images/3d/01.png" alt="Testimonial-image"/>
+                                            <img src="/images/3d/01.png" alt="Testimonial-image"/>
                                         </div>
                                         <div className="card-content">
                                             <span className="subtitle mt--10">Rain</span>
@@ -38,11 +32,11 @@ function TestimoniaArea(){
                                                 <span className="date">via Upwork - Mar 4, 2015 - Aug 30, 2021</span>
                                             </div>
                                             <div className="rating">
-                                                <img src="./images/icons/rating.png" alt="rating-image"/>
-                                                <img src="./images/icons/rating.png" alt="rating-image"/>
-                                                <img src="./images/icons/rating.png" alt="rating-image"/>
-                                                <img src="./images/icons/rating.png" alt="rating-image"/>
-                                                <img src="./images/icons/rating.png" alt="rating-image"/>
+                                                <img src="/images/icons/rating.png" alt="rating-image"/>
+                                                <img src="/images/icons/rating.png" alt="rating-image"/>
+                                                <img src="/images/icons/rating.png" alt="rating-image"/>
+                                                <img src="/images/icons/rating.png" alt="rating-image"/>
+                                                <img src="/images/icons/rating.png" alt="rating-image"/>
                                             </div>
                                         </div>
                                         <div className="seperator"></div>
@@ -59,7 +53,7 @@ function TestimoniaArea(){
                                 <div className="inner">
                                     <div className="card-info">
                                         <div className="card-thumbnail">
-                                            <img src="./images/3d/Saly-11.png" alt="Testimonial-image"/>
+                                            <img src="/images/3d/Saly-11.png" alt="Testimonial-image"/>
                                         </div>
                                         <div className="card-content">
                                             <span className="subtitle mt--10">Bound - Trolola</span>
@@ -74,11 +68,11 @@ function TestimoniaArea(){
                                                 <span className="date">Upwork - Mar 4, 2016 - Aug 30, 2021</span>
                                             </div>
                                             <div className="rating">
-                                                <img src="./images/icons/rating.png" alt="rating-image"/>
-                                                <img src="./images/icons/rating.png" alt="rating-image"/>
-                                                <img src="./images/icons/rating.png" alt="rating-image"/>
-                                                <img src="./images/icons/rating.png" alt="rating-image"/>
-                                                <img src="./images/icons/rating.png" alt="rating-image"/>
+                                                <img src="/images/icons/rating.png" alt="rating-image"/>
+                                                <img src="/images/icons/rating.png" alt="rating-image"/>
+                                                <img src="/images/icons/rating.png" alt="rating-image"/>
+                                                <img src="/images/icons/rating.png" alt="rating-image"/>
+                                                <img src="/images/icons/rating.png" alt="rating-image"/>
                                             </div>
                                         </div>
                                         <div className="seperator"></div>
@@ -96,7 +90,7 @@ function TestimoniaArea(){
                                 <div className="inner">
                                     <div className="card-info">
                                         <div className="card-thumbnail">
-                                            <img src="./images/3d/Saly-22.png" alt="Testimonial-image"/>
+                                            <img src="/images/3d/Saly-22.png" alt="Testimonial-image"/>
                                         </div>
                                         <div className="card-content">
                                             <span className="subtitle mt--10">Glassfisom</span>
@@ -111,11 +105,11 @@ function TestimoniaArea(){
                                                 <span className="date">Fiver - Mar 4, 2015 - Aug 30, 2021</span>
                                             </div>
                                             <div className="rating">
-                                                <img src="./images/icons/rating.png" alt="rating-image"/>
-                                                <img src="./images/icons/rating.png" alt="rating-image"/>
-                                                <img src="./images/icons/rating.png" alt="rating-image"/>
-                                                <img src="./images/icons/rating.png" alt="rating-image"/>
-                                                <img src="./images/icons/rating.png" alt="rating-image"/>
+                                                <img src="/images/icons/rating.png" alt="rating-image"/>
+                                                <img src="/images/icons/rating.png" alt="rating-image"/>
+                                                <img src="/images/icons/rating.png" alt="rating-image"/>
+                                                <img src="/images/icons/rating.png" alt="rating-image"/>
+                                                <img src="/images/icons/rating.png" alt="rating-image"/>
                                             </div>
                                         </div>
                                         <div className="seperator"></div>
@@ -133,7 +127,7 @@ function TestimoniaArea(){
                                 <div className="inner">
                                     <div className="card-info">
                                         <div className="card-thumbnail">
-                                            <img src="./images/3d/01.png" alt="Testimonial-image"/>
+                                            <img src="/images/3d/01.png" alt="Testimonial-image"/>
                                         </div>
                                         <div className="card-content">
                                             <span className="subtitle mt--10">NCD - Design</span>
@@ -148,11 +142,11 @@ function TestimoniaArea(){
                                                 <span className="date">Thoda Department - Mar 4, 2018 - Aug 30, 2021</span>
                                             </div>
                                             <div className="rating">
-                                                <img src="./images/icons/rating.png" alt="rating-image"/>
-                                                <img src="./images/icons/rating.png" alt="rating-image"/>
-                                                <img src="./images/icons/rating.png" alt="rating-image"/>
-                                                <img src="./images/icons/rating.png" alt="rating-image"/>
-                                                <img src="./images/icons/rating.png" alt="rating-image"/>
+                                                <img src="/images/icons/rating.png" alt="rating-image"/>
+                                                <img src="/images/icons/rating.png" alt="rating-image"/>
+                                                <img src="/images/icons/rating.png" alt="rating-image"/>
+                                                <img src="/images/icons/rating.png" alt="rating-image"/>
+                                                <img src="/images/icons/rating.png" alt="rating-image"/>
                                             </div>
                                         </div>
                                         <div className="seperator"></div>
@@ -170,7 +164,7 @@ function TestimoniaArea(){
                                 <div className="inner">
                                     <div className="card-info">
                                         <div className="card-thumbnail">
-                                            <img src="./images/3d/Saly-19.png" alt="Testimonial-image"/>
+                                            <img src="/images/3d/Saly-19.png" alt="Testimonial-image"/>
                                         </div>
                                         <div className="card-content">
                                             <span className="subtitle mt--10">Default name</span>
@@ -185,11 +179,11 @@ function TestimoniaArea(){
                                                 <span className="date">via Upwork - Mar 4, 2015 - Aug 30, 2021</span>
                                             </div>
                                             <div className="rating">
-                                                <img src="./images/icons/rating.png" alt="rating-image"/>
-                                                <img src="./images/icons/rating.png" alt="rating-image"/>
-                                                <img src="./images/icons/rating.png" alt="rating-image"/>
-                                                <img src="./images/icons/rating.png" alt="rating-image"/>
-                                                <img src="./images/icons/rating.png" alt="rating-image"/>
+                                                <img src="/images/icons/rating.png" alt="rating-image"/>
+                                                <img src="/images/icons/rating.png" alt="rating-image"/>
+                                                <img src="/images/icons/rating.png" alt="rating-image"/>
+                                                <img src="/images/icons/rating.png" alt="rating-image"/>
+                                                <img src="/images/icons/rating.png" alt="rating-image"/>
                                             </div>
                                         </div>
                                         <div className="seperator"></div>
